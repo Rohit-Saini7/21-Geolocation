@@ -4,7 +4,7 @@ Date: July 23, 2022
 
 # TwentyFirst challange of [JavaScript30](https://javascript30.com/)
 
-. To experience on your own visit [here](https://rohit-saini7.github.io/20-Speech-Detection/).
+. To experience on your own visit [here](https://rohit-saini7.github.io/21-Geolocation/).
 
 ## What is JavaScript 30
 
@@ -15,7 +15,3 @@ Learn more about the course in [here](https://javascript30.com/).
 ## Screenshot
 
 ![Screendhot](./assets/screenshot.png)
-
-## Background
-
-Image by []() on [Unsplash](https://unsplash.com/s/photos/)

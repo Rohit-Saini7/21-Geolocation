@@ -4,7 +4,7 @@ Date: July 23, 2022
 
 # TwentyFirst challange of [JavaScript30](https://javascript30.com/)
 
-. To experience on your own visit [here](https://rohit-saini7.github.io/21-Geolocation/).
+This tell us our geolocation which includes longitude, latitude, accuracy and speed with GMT. Location permission is required for its proper finctioning. To experience on your own visit [here](https://rohit-saini7.github.io/21-Geolocation/).
 
 ## What is JavaScript 30
 

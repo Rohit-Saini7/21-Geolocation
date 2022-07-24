@@ -1,6 +1,6 @@
 # 21-Geolocation
 
-Date: July 23, 2022
+Date: July 24, 2022
 
 # TwentyFirst challange of [JavaScript30](https://javascript30.com/)
 
